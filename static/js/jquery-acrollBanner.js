@@ -4,7 +4,7 @@
         var screenWidth=window.screen.width;//鑾峰彇椤甸潰鍙瀹藉害 
           var defaults = {
             images : [],
-            scrollTime : 5000,
+            scrollTime : 9000,
             bannerHeight : "auto",
             iconColor : "white",
             iconHoverColor : "orange",
